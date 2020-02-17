@@ -10,11 +10,11 @@
     "onlyfans": {
       "auth": {
         "username": "",
-        "auth_id": "",
-        "auth_hash": "",
-        "sess": "",
+        "auth_id": "8442933",
+        "auth_hash": "5c452553ab2625ebc98d28d184812252",
+        "sess": "dnlrf6jcqhiegiido99efl3vm4",
         "app-token": "33d57ade8c02dbc5a333db99ff9ae26a",
-        "user-agent": ""
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0"
       },
       "settings": {
         "auto_choice": "",
